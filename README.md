@@ -5,5 +5,5 @@
 
 | 이름    | 박석진                                        | 이승화                            | 이정재                          |
 | ------- | --------------------------------------------- | --------------------------------- | ------------------------------- |
-| **git** | [seokjin1023](https://github.com/seokjin1023) | [lshwa](https://github.com/lshwa) |    | [lee1026td](https://github.com/lee1026td)
+| **git** | [seokjin1023](https://github.com/seokjin1023) | [lshwa](https://github.com/lshwa) | [lee1026td](https://github.com/lee1026td) |
 
