@@ -12,7 +12,7 @@ Word Changer: 실시간 혐오 표현 순화 크롬 익스텐션
 온라인 환경의 공격적 언어와 혐오 표현을 무조건적인 차단이 아닌, 문맥을 유지한 채 순화된 표현으로 자동 변환하여 건강한 디지털 소통 문화를 조성하는 시스템입니다. 
 
 ## 🎯 핵심 가치
-'무엇을 말하지 말아야 하는가'가 아닌, **'어떻게 더 나은 방식으로 말할 수 있는가'**에 집중하는 능동적 순화(Active Purification) 
+'무엇을 말하지 말아야 하는가'가 아닌, '어떻게 더 나은 방식으로 말할 수 있는가'에 집중하는 능동적 순화(Active Purification) 
 
 ## 🛠️ 주요 기술 스택 및 아키텍처
 Hybrid Model Structure
@@ -30,6 +30,7 @@ GPT API를 활용하여 원문의 의도는 유지하되 공격성만 완화된 
 ### Implementation Details
 
 Frontend: Chrome Extension (JavaScript) 
+
 Backend: FastAPI, Amazon EC2 
 
 ## ✨ 기대 효과
